@@ -1,0 +1,182 @@
+/* All */
+a:hover {
+  text-decoration: underline;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* Flex */
+.container {
+  display: flex;
+  justify-content: flex-start;
+  justify-content: space-between;
+}
+
+.item1 {
+  padding: 10px;
+  color: rgb(99, 99, 99);
+  text-decoration: none;
+
+  float: left;
+}
+.item2 {
+  padding: 10px;
+  color: rgb(99, 99, 99);
+  text-decoration: none;
+
+  float: left;
+}
+.item3 {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+
+  float: left;
+}
+.item4 {
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+
+  float: left;
+}
+.menu-icon {
+  padding: 10px;
+}
+
+.Signin {
+  background-color: rgb(85, 130, 255);
+  padding: 8px 10px 8px 10px;
+  color: white;
+  border-radius: 2px;
+  float: right;
+}
+.Signin:hover {
+  cursor: pointer;
+}
+/* LOGO */
+
+.Googlelogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+/* Search bar */
+.topnav input[type="search"] {
+  align-self: baseline;
+  padding: 10px 150px 10px 150px;
+  border: grey solid 1px;
+  font-size: 17px;
+  border-radius: 100px;
+  justify-content: center;
+  text-decoration: none;
+
+ 
+
+}
+.mic-img{
+  right: 65px;
+  top: 4px;
+  position:relative;
+  
+}
+.magnify-img {
+  right: 500px;
+  top: 10px;
+  position:relative;
+  
+}
+.fa-search{
+  left: 230px;
+}
+/* Search */
+.search-cont {
+  display: flex;
+  justify-content: center;
+}
+.search {
+  background-color: rgb(230, 230, 230);
+  padding: 10px;
+  margin: 10px;
+}
+.search:hover {
+  cursor: pointer;
+}
+/* Languages */
+.la-cont {
+  justify-content: center;
+  display: flex;
+}
+.la-item {
+  padding-top: 15px;
+  font-size: 80%;
+}
+.middle{
+  top: 200px;
+  position: relative;
+}
+/* Footer */
+
+.footer-cont {
+  justify-content: flex-end;
+  background-color: rgb(230, 230, 230);
+  position: relative;
+  top: 400px;
+}
+.footer-contpart1 {
+  padding: 10px;
+  border-bottom: 1px solid rgb(180, 180, 180);
+  display: flex;
+}
+.footer-contpart3 {
+  display: flex;
+  justify-content: flex-end;
+}
+.F-item1 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: left;
+  background-color: rgb(230, 230, 230);
+}
+.F-item2 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: left;
+  background-color: rgb(230, 230, 230);
+}
+.F-item3 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: left;
+  background-color: rgb(230, 230, 230);
+}
+.F-item4 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: right;
+  background-color: rgb(230, 230, 230);
+}
+.F-item5 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: right;
+  background-color: rgb(230, 230, 230);
+}
+.F-item6 {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  float: right;
+  background-color: rgb(230, 230, 230);
+}
+
+/* Foot Hover */
+.F-itemfirst:hover {
+  text-decoration: none;
+}
