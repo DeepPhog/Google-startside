@@ -1,11 +1,11 @@
-# Prosjekt-001 :Survey Form
+# Google startside
 
 ## Beskrivelse
 Prosjekt har som mål å lage spørreskjema innen html og css.
 
-## Problemstilling
+## Links
 
-- Din bedrift har nylig startet på et prosjekt som tar sikte på å gjennomføre en undersøkelse for å måle kravene og interessene til kundene. Så du og kollegene dine har begynt å jobbe med prosjektet.
+https://www.w3schools.com/
 
 ## Prosjekt skjelett 
 
@@ -16,16 +16,14 @@ Survey-form (folder)
 |----solution
         |----index.html  
         |----style.css   
-        |----result.html 
+        
 ```
 
-## Forventet resultat
 
-![Project 001 Snapshot](Project_001_.png)
 
 ## Objektiv
 
-Bygg et spørreskjema som er funksjonelt likt dette: [Survey Form](https://durmusserdar.github.io/survey-form/)
+Lage google startside
 
 ### På slutten av prosjektet skal følgende emner dekkes;
 
