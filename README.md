@@ -16,14 +16,12 @@ Survey-form (folder)
 |----solution
         |----index.html  
         |----style.css   
-        
+        |----images
 ```
 
 
 
-## Objektiv
 
-Lage google startside
 
 ### På slutten av prosjektet skal følgende emner dekkes;
 
@@ -60,7 +58,7 @@ Lage google startside
 
 ## Ressurser
 
--  [Background Image Url](https://raw.githubusercontent.com/durmusserdar/survey-form/main/back.jpg)
+-  [Background Image Url](https://github.com/DeepPhog/Google-startside/blob/main/images/googlelogo.png)
 
 
 ## Lykke til med koding!
